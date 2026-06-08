@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "One",
+    "coordinates": {
+      "x": 23,
+      "y": 12.0
+    },
+    "creationDate": "2026-04-29T15:14:29.820248+03:00[Europe/Moscow]",
+    "area": 45,
+    "numberOfRooms": null,
+    "centralHeating": true,
+    "furnish": "FINE",
+    "view": "PARK",
+    "house": {
+      "name": null,
+      "year": 12,
+      "numberOfFloors": 34,
+      "numberOfFlatsOnFloor": 3,
+      "numberOfLifts": 2
+    }
+  },
+  {
+    "id": 2,
+    "name": "Two",
+    "coordinates": {
+      "x": 12,
+      "y": 21.0
+    },
+    "creationDate": "2026-04-29T15:16:20.874004+03:00[Europe/Moscow]",
+    "area": 56,
+    "numberOfRooms": 6,
+    "centralHeating": false,
+    "furnish": "BAD",
+    "view": "NORMAL",
+    "house": {
+      "name": "okay",
+      "year": 23,
+      "numberOfFloors": 12,
+      "numberOfFlatsOnFloor": 5,
+      "numberOfLifts": 3
+    }
+  }
+]
